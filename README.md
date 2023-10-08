@@ -16,4 +16,4 @@ yarn start
 
 ```sh
 yarn build
-```# snowball-lens-pwa-template
+```
