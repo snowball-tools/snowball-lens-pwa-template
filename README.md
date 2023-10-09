@@ -1,4 +1,4 @@
-## Snowball PWA Lens Template Dapp
+## [Not Ready] Snowball PWA Lens Template Dapp
 
 ## Getting Started
 
